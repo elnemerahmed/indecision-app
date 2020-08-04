@@ -62,7 +62,6 @@ export default class IndecisionApp extends React.Component {
   render() {
     const subtitle = 'Put your life in the hands of a computer';
 
-    
     return (
       <div>
         <Header subtitle={subtitle} />
